@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670171240 source:d:\c++ projects\intervalarithemeticv1\main.cpp
+	<iostream>
+	<algorithm>
+	"intervalclass.h"
+
+1670172735 d:\c++ projects\intervalarithemeticv1\intervalclass.h
+	<iostream>
+	<algorithm>
+
